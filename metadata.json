@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Saiyan Game",
+  "description": "Anime Flappy Bird game featuring Goku and Vegeta with iconic Super Saiyan, Ultra Instinct, and Ultra Ego transformations, authentic voice audio tracks, power aura effects, and leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
